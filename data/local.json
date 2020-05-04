@@ -8,7 +8,7 @@
         "DefaultZoom": 15,
         "IconViewZoom": 15,
         "TextViewZoom": 17,
-        "attribution": "<a href=\"https://www.maptiler.com/copyright/\" target=\"_blank\">© MapTiler</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">© OpenStreetMap contributors</a>",
+        "attribution": "<a href=\"https://maptiler.jp/\" target=\"_blank\">&copy; MIERUNE</a> <a href=\"https://www.maptiler.com/copyright/\" target=\"_blank\">&copy; MapTiler</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
         "style": "https://api.maptiler.com/maps/jp-mierune-streets/style.json?key=lCHYzQ6qOpuxtub6lZ4N"
     },
     "menu": [
